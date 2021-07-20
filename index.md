@@ -1,11 +1,13 @@
 <p align="center">
   <b>Welcome to my webpage!</b><br>
   <a>Feel free to bookmark this to keep an eye on my project updates. </a><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <a href="#">About</a> |
+  <a href="#">Projects</a> |
+  <a href="#">Publications</a> | 
+  <a href="#">Interests</a>
+
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://www.outlookindia.com/outlooktraveller/public/uploads/2018/06/Forest-Dirang-Arunachal-Pradesh.jpg">
 </p>
 
 <br>
