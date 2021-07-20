@@ -16,13 +16,12 @@
   
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
+<img src="github.png" alt="drawing" width="20" href="https://github.com/unmixablemix"/>
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (twitter)
 [2.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (instagram)
-[3.1]: github.png (github)
 [4.1]: https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white
 [5.1]: https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white
 
