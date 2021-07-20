@@ -21,7 +21,7 @@
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (twitter)
 [2.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (instagram)
-[3.1]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white (github)
+[3.1]: hhttps://www.google.com/imgres?imgurl=https%3A%2F%2Fp.kindpng.com%2Fpicc%2Fs%2F128-1280233_free-files-github-github-white-logo-png-transparent.png&imgrefurl=https%3A%2F%2Fwww.kindpng.com%2Ffree%2Fgithub-logo%2F&tbnid=00jixij6Ixo7bM&vet=12ahUKEwjLqKeavPHxAhVCNnIKHYHXB-oQMygCegUIARCgAQ..i&docid=eOMF2QQ1Zvce-M&w=287&h=280&q=transparent%20github%20logo%20white&hl=en&ved=2ahUKEwjLqKeavPHxAhVCNnIKHYHXB-oQMygCegUIARCgAQ (github)
 [4.1]: https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white
 [5.1]: https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white
 
