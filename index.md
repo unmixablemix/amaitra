@@ -20,13 +20,13 @@
     <img src="instagram.png" alt="drawing" width="20"/>
   </a>
   <a href="https://github.com/unmixablemix">
-    <img src="github.png" alt="drawing" width="30"/>
+    <img src="github.png" alt="drawing" width="40"/>
   </a>
   <a href="https://stackexchange.com/users/10175753/unmixablemix">
     <img src="stackoverflow.png" alt="drawing" width="20"/>
   </a>
   <a href="https://www.researchgate.net/profile/Alakananda-Maitra">
-    <img src="researchgate.png" alt="drawing" width="20"/>
+    <img src="researchgate.png" alt="drawing" width="40"/>
   </a>
 
 </p>
