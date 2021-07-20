@@ -1,5 +1,6 @@
 <p align="center">
-  <b>Some Links:</b><br>
+  <b>### Welcome to my webpage!</b><br>
+  <a ### Feel free to bookmark this to keep an eye on my project updates. /a>
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
