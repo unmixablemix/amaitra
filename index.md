@@ -10,3 +10,13 @@
   <a href="#">Blog</a>
 </p>
 
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.1]: https://www.pngfind.com/mpng/ixhTw_instagram-new-logo-png-image-royalty-free-white/ (facebook icon without padding)
+
+
+[1]: http://www.twitter.com/unmixablemix
+[2]: http://www.instagram.com/unmixablemix
