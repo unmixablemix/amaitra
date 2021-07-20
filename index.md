@@ -30,5 +30,5 @@
 [2]: https://www.instagram.com/unmixablemix
 [3]: https://github.com/unmixablemix
 [4]: https://stackexchange/unmixablemix
-[5]: https://https://www.researchgate.net/profile/Alakananda-Maitra
+[5]: https://www.researchgate.net/profile/Alakananda-Maitra
 
