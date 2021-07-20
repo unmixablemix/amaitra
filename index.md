@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://www.outlookindia.com/outlooktraveller/public/uploads/2018/06/Forest-Dirang-Arunachal-Pradesh.jpg">
-  <br><br>
-  <b>Welcome to my webpage!</b><br>
-  <a>Feel free to bookmark this to keep an eye on my project updates. </a><br>
+  <br><br><br><br>
+  <b>Welcome to my webpage!</b><br><br><br>
+  <a>Feel free to bookmark this to keep an eye on my project updates. </a><br><br><br>
   <a href="#">About</a> |
   <a href="#">Projects</a> |
   <a href="#">Publications</a> | 
@@ -11,12 +11,7 @@
   
 </p>
 
-<br>
-<br>
-<br>
-
-
-
+<br><br><br>
 
 You can use the [editor on GitHub](https://github.com/unmixablemix/amaitra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
