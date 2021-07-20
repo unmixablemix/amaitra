@@ -6,7 +6,8 @@
   <a href="#">About</a> |
   <a href="#">Projects</a> |
   <a href="#">Publications</a> | 
-  <a href="#">Interests</a>
+  <a href="#">Interests</a> |
+  <a href="#">Blog</a>
 
 </p>
 
