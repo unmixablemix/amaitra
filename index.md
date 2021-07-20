@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://www.outlookindia.com/outlooktraveller/public/uploads/2018/06/Forest-Dirang-Arunachal-Pradesh.jpg">
+  <br><br>
   <b>Welcome to my webpage!</b><br>
   <a>Feel free to bookmark this to keep an eye on my project updates. </a><br>
   <a href="#">About</a> |
@@ -6,8 +8,7 @@
   <a href="#">Publications</a> | 
   <a href="#">Interests</a>
 
-  <br><br>
-  <img src="https://www.outlookindia.com/outlooktraveller/public/uploads/2018/06/Forest-Dirang-Arunachal-Pradesh.jpg">
+  
 </p>
 
 <br>
