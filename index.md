@@ -8,7 +8,5 @@
   <a href="#">Publications</a> | 
   <a href="#">Interests</a>
 
-  
 </p>
 
-<br><br><br>
