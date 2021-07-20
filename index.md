@@ -16,7 +16,9 @@
   
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-<img src="github.png" alt="drawing" width="20" href="https://github.com/unmixablemix"/>
+<a href="https://github.com/unmixablemix">
+  <img src="github.png" alt="drawing" width="20"/>
+</a>
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 
