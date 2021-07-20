@@ -1,3 +1,3 @@
 # Alakananda Maitra
 
-## Welcome to my Personal webpage!
+## Welcome to my webpage!
