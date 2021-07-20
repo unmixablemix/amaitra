@@ -14,8 +14,8 @@
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.1]: https://www.pngfind.com/mpng/ixhTw_instagram-new-logo-png-image-royalty-free-white/ (facebook icon without padding)
+[1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (twitter icon without padding)
+[2.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (facebook icon without padding)
 
 
 [1]: http://www.twitter.com/unmixablemix
