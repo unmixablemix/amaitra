@@ -10,26 +10,26 @@
   <br><br><br><br>
   <b>Welcome to my webpage!</b><br><br>
   <a>This space is currently under construction, but feel free to bookmark it to keep an eye out for updates. </a><br>
+  
+  <br><br>
+  
+  <a href="https://www.twitter.com/unmixablemix">
+    <img src="twitter.png" alt="drawing" width="20"/>
+  </a>
+  <a href="https://www.instagram.com/unmixablemix">
+    <img src="instagram.png" alt="drawing" width="20"/>
+  </a>
+  <a href="https://github.com/unmixablemix">
+    <img src="github.png" alt="drawing" width="20"/>
+  </a>
+  <a href="https://stackexchange.com/users/10175753/unmixablemix">
+    <img src="stackexchange.png" alt="drawing" width="20"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Alakananda-Maitra">
+    <img src="researchgate.png" alt="drawing" width="20"/>
+  </a>
+
 </p>
 
-<br><br>
-  
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-<a href="https://github.com/unmixablemix">
-  <img src="github.png" alt="drawing" width="20"/>
-</a>
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
 
-[1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (twitter)
-[2.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (instagram)
-[4.1]: https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white
-[5.1]: https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white
-
-[1]: https://www.twitter.com/unmixablemix
-[2]: https://www.instagram.com/unmixablemix
-[3]: https://github.com/unmixablemix
-[4]: https://stackexchange.com/users/10175753/unmixablemix
-[5]: https://www.researchgate.net/profile/Alakananda-Maitra
 
