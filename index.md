@@ -26,7 +26,7 @@
     <img src="stackoverflow.png" alt="drawing" width="20"/>
   </a> |
   <a href="https://www.researchgate.net/profile/Alakananda-Maitra">
-    <img src="researchgate.png" alt="drawing" width=""/>
+    <img src="researchgate.png" alt="drawing" width="20"/>
   </a>
 
 </p>
