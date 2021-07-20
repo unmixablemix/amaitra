@@ -1,6 +1,6 @@
 <p align="center">
-### Welcome to my webpage!
-### [Feel free to bookmark this to keepan eye on my project updates.]
+Welcome to my webpage!
+Feel free to bookmark this to keepan eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/unmixablemix/amaitra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
