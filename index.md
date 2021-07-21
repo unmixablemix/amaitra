@@ -9,8 +9,7 @@
   <img src="https://www.outlookindia.com/outlooktraveller/public/uploads/2018/06/Forest-Dirang-Arunachal-Pradesh.jpg">
   <br><br><br><br>
   <b>Welcome to my webpage!</b><br><br>
-  <p align="center">This space is currently under construction, but feel free to bookmark it and keep an eye out for updates. </p><br>
-  
+  <p align="center">This space is currently under construction, but feel free to bookmark it and keep an eye out for updates. </p>
   <br><br>
  </p>
  
