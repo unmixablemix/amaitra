@@ -12,6 +12,9 @@
   <p align="center">This space is currently under construction, but feel free to bookmark it and keep an eye out for updates. </p><br>
   
   <br><br>
+ </p>
+ 
+ <p align="center">
   
   <a href="https://www.twitter.com/unmixablemix">
     <img src="twitter.png" alt="drawing" width="20"/>
