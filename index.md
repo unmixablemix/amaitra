@@ -1,6 +1,6 @@
 <p align="center">
   
-  <a href="about.md">About</a> |
+  <a href="about.html">About</a> |
   <a href="#">Projects</a> |
   <a href="#">Publications</a> | 
   <a href="#">Interests</a> |
