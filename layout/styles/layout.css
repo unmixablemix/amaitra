@@ -352,7 +352,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#97A9BD !important;}
 
 
 /* Content Area */
-.elements article{color:#474747; background-color:#FFFFFF; box-shadow:0px 0px 15px rgba(0,0,0,.3);}
+.elements article{color:#474747; background-color:#FFFFFF; box-shadow:0px 0px 15px rgba(0,0,0,0);}
 .elements article:hover{color:#FFFFFF; background-color:#97A9BD;}/* Default */
 .elements article a i{color:#FFFFFF; background-color:#97A9BD;}/* Default */
 .elements article:hover a i{color:#97A9BD; background-color:#FFFFFF;}/* Default */
