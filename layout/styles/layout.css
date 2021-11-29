@@ -348,7 +348,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#97A9BD !important;}
 
 
 /* Page Intro */
-#pageintro{color:#FFFFFF;}
+#pageintro{color:#FFFFFF; rgba(0,0,0,0);}
 
 
 /* Content Area */
