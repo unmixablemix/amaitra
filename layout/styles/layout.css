@@ -290,10 +290,10 @@ td{border-width:0 1px;}
 .faico a{color:inherit; background-color:#282E39;}
 .faico a:hover{color:#FFFFFF;}
 
-.faicon-researchgate:hover{background-color:#97BDAB;}
+.faicon-researchgate:hover{background-color:#00FFEF;}
 .faicon-linkedin:hover{background-color:#0E76A8;}
-.faicon-stack-overflow:hover{background-color:#FF8243;}
-.faicon-github:hover{background-color:#FFFFFF;}
+.faicon-stackoverflow:hover{background-color:#FF8243;}
+.faicon-github:hover{background-color:#FF8243;}
 .faicon-twitter:hover{background-color:#00ACEE;}
 .faicon-instagram:hover{background-color:#FF0090;}
 
